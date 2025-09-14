@@ -52,10 +52,7 @@ We are proudly backed by initiatives like the **Solana Foundation, SuperteamNG, 
 
 ## 🛠 Contributing Guidelines
 
-We value **collaboration, respect, and creativity.** Before contributing, please read:
-
-* [CODE\_OF\_CONDUCT.md](./CODE_OF_CONDUCT.md)
-* [CONTRIBUTING.md](./CONTRIBUTING.md)
+We value **collaboration, respect, and creativity.**
 
 ---
 
